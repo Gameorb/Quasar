@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/vtrix_ambient1.ogg-c050986b3a7642ee0855ed3a3f732283.oggstr"
+
+[deps]
+
+source_md5="201eb132c64d49fcfc7759a0a874404b"
+
+[params]
+
+loop=true
+loop_offset=0

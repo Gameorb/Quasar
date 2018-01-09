@@ -1,0 +1,20 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/The Last Stand (Looped ending).wav-fe600d3d4bbe6eddcc98e54bb8573e2f.sample"
+
+[deps]
+
+source_md5="1177538cb4c4f3168caa1c6e4b47cc23"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

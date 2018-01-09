@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/SynthDrums1.ogg-aa04bb75d59c163c9ea8394e2b9b7c96.oggstr"
+
+[deps]
+
+source_md5="d82e57f3dbc3ff83cc57662504c73000"
+
+[params]
+
+loop=true
+loop_offset=0

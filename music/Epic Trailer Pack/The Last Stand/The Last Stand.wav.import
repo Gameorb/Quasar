@@ -1,0 +1,20 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/The Last Stand.wav-90e4b74ed3ecbbd23457e14f5c63b9b0.sample"
+
+[deps]
+
+source_md5="e4c10a867013eb31ba0fbae9830560a3"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

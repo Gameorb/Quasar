@@ -1,0 +1,20 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Cancel - 4.wav-06477ca5f361d70894e933d0b21abb6f.sample"
+
+[deps]
+
+source_md5="44ca73cccbed0d71451a714f0649275f"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

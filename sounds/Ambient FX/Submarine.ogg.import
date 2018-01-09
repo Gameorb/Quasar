@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Submarine.ogg-b5e37c201f1b2b0800b530d69454a906.oggstr"
+
+[deps]
+
+source_md5="d0a7e9e607389917f2c817831fa50595"
+
+[params]
+
+loop=true
+loop_offset=0

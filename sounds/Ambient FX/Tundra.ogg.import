@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Tundra.ogg-74ad0e40067114120e6b0777224cdd0f.oggstr"
+
+[deps]
+
+source_md5="ddfeac4c4275bc0f66175994cceb5616"
+
+[params]
+
+loop=true
+loop_offset=0

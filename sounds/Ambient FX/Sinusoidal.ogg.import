@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Sinusoidal.ogg-185e7e141fbf3854571fe1b7d935529d.oggstr"
+
+[deps]
+
+source_md5="be88d7115fe6e57c3ca5fa4e7f7b8ae0"
+
+[params]
+
+loop=true
+loop_offset=0

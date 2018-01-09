@@ -1,0 +1,20 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Lazer Fire 1.wav-65089c421c63e03e5faa98fb9dd94fd8.sample"
+
+[deps]
+
+source_md5="bc429960fc2aedddd74568e2449eed3f"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

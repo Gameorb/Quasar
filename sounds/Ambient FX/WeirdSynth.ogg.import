@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/WeirdSynth.ogg-bd8b93b47b4c6b9b17a3e1728572402d.oggstr"
+
+[deps]
+
+source_md5="2cdec16be11697ed8f1d6314e389307c"
+
+[params]
+
+loop=true
+loop_offset=0

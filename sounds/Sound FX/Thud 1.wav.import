@@ -1,0 +1,20 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Thud 1.wav-8ea54a8c1e2cc6493c42307281fd3713.sample"
+
+[deps]
+
+source_md5="bd204ee0359e3ff110335dff2afa3ae2"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/TimeMachine.ogg-f2bf9c64a2f9a3902664fe0d67e9c52e.oggstr"
+
+[deps]
+
+source_md5="f93262a6f06986573e7945055ae7bb10"
+
+[params]
+
+loop=true
+loop_offset=0

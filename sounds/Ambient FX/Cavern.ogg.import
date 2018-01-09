@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Cavern.ogg-df839475133747c6d777878484e8e4e6.oggstr"
+
+[deps]
+
+source_md5="fbde695fcf0413b90f5730937cc666d3"
+
+[params]
+
+loop=true
+loop_offset=0

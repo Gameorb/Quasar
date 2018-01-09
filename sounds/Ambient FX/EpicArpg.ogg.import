@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/EpicArpg.ogg-76237e0628c67782a81dc8734a7667ff.oggstr"
+
+[deps]
+
+source_md5="38e093333db9ffae55c2628fade612b5"
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/MattOglseby - 8.ogg-fd559595522c30d44eeaf6f5e0ea015a.oggstr"
+
+[deps]
+
+source_md5="2464f2bc0806a112a036f914de5b4f5f"
+
+[params]
+
+loop=true
+loop_offset=0

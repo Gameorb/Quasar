@@ -1,0 +1,20 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/8 Bit Ricochet.wav-6da5a529da10c3ef33d7da7c4f4eebcf.sample"
+
+[deps]
+
+source_md5="d9ff974360edd2e43a10506de488f02b"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0

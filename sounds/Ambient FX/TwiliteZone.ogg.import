@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/TwiliteZone.ogg-c3380bb4467a85644d66230b4506cffb.oggstr"
+
+[deps]
+
+source_md5="dcd70cb279330e18160f09f772f8896f"
+
+[params]
+
+loop=true
+loop_offset=0

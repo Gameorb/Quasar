@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/SynRise.ogg-5ab97899be32e5997e65bf9deadc62f2.oggstr"
+
+[deps]
+
+source_md5="5039c145a4bc8fcde0561267425aeb28"
+
+[params]
+
+loop=true
+loop_offset=0

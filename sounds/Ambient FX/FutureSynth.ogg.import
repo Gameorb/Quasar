@@ -1,0 +1,14 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/FutureSynth.ogg-bc2f1b015b31ce779d157599ddacad7b.oggstr"
+
+[deps]
+
+source_md5="e5dfe1309f00d7e687b8afe1688227bb"
+
+[params]
+
+loop=true
+loop_offset=0

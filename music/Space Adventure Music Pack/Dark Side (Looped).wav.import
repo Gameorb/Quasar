@@ -1,0 +1,20 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Dark Side (Looped).wav-5d221d42dd48171c4f24713be0f1b420.sample"
+
+[deps]
+
+source_md5="5e0f99ecc0f2f8e5fd67c720522b1e01"
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=false
+compress/mode=0
